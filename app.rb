@@ -62,8 +62,7 @@ post '/visit' do
 end	
 
 get '/showusers' do
-  	
-		
+  	erb :showusers		
 end
 
 
